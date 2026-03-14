@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>My Princess Zikora ❤️</title>
+
+<style>
+body{
+    margin:0;
+    font-family: Arial, sans-serif;
+    text-align:center;
+    background: linear-gradient(to bottom, #ff4b7d, #ff9bb3);
+    color:white;
+}
+
+h1{
+    font-size:50px;
+    margin-top:40px;
+}
+
+.gallery img{
+    width:250px;
+    border-radius:20px;
+    margin:10px;
+}
+
+.love-letter{
+    background:white;
+    color:#ff4b7d;
+    padding:30px;
+    margin:40px;
+    border-radius:20px;
+    font-size:18px;
+}
+
+footer{
+    margin-top:40px;
+    font-size:14px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>My Princess Zikora ❤️</h1>
+
+<h2>My Babe, I Love You</h2>
+
+<!-- Background Music -->
+<audio autoplay loop>
+<source src="asake-song.mp3" type="audio/mpeg">
+</audio>
+
+<!-- Photo Gallery -->
+<div class="gallery">
+<img src="photo1.jpg">
+<img src="photo2.jpg">
+<img src="photo3.jpg">
+</div>
+
+<!-- Love Letter -->
+<div class="love-letter">
+<h2>To My Princess Zikora 💌</h2>
+
+<p>
+My babe, from the moment you came into my life everything became brighter.
+You are my happiness, my peace, and my biggest blessing.
+Every day I look at you and I thank God for bringing such an amazing
+woman into my life.
+</p>
+
+<p>
+Zikora, my princess, I want you to know that my love for you is real,
+pure, and forever. No matter where life takes us, I will always choose you.
+</p>
+
+<p>
+I love you today, tomorrow, and forever. ❤️
+</p>
+
+<p>
+— Your Love
+</p>
+</div>
+
+<footer>
+Made with love for my babe Zikora ❤️
+</footer>
+
+</body>
+</html>
